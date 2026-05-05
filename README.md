@@ -2,7 +2,7 @@
 
 **Job Tracker** Job Tracker is a command-line job search management tool that helps you log, organize, and analyze your applications in one place. The project combines Pandas-powered data processing with Matplotlib to track application statuses, calculate response rates, and visualize your job search progress over time.
 
-![Demo](demo.mp4)
+[![Demo](demo.mp4)](https://github.com/rayyanusmanii/job-tracker/blob/main/demo.mp4)
 
 
 ---
